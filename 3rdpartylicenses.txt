@@ -246,6 +246,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+angular-user-idle
+MIT
+
 angularx-flatpickr
 MIT
 The MIT License (MIT)
