@@ -1,7 +1,0 @@
-[defaults]
-group = constructoramp_rg_Windows_centralus
-sku = FREE
-appserviceplan = constructoramp_asp_Windows_centralus_0
-location = centralus
-web = constructoramejiapolanco
-

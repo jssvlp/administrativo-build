@@ -114,9 +114,15 @@ THE SOFTWARE.
 
 @angular/material/card
 
+@angular/material/chips
+
 @angular/material/core
 
+@angular/material/datepicker
+
 @angular/material/dialog
+
+@angular/material/divider
 
 @angular/material/form-field
 
@@ -131,6 +137,8 @@ THE SOFTWARE.
 @angular/material/select
 
 @angular/material/sidenav
+
+@angular/material/slide-toggle
 
 @angular/material/sort
 
@@ -867,6 +875,8 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 END OF TERMS AND CONDITIONS
 
 
+undefined
+
 util
 MIT
 Copyright Joyent, Inc. and other Node contributors. All rights reserved.
@@ -912,6 +922,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-
-undefined
